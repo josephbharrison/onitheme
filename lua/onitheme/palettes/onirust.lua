@@ -32,7 +32,7 @@ c.ui.cyan = "#95BDB7"
 c.ui.orange = "#D49668"
 
 c.ui.accent = "#CDCDDE"
-c.ui.
+
 c.ui.tabline = "#ff0000"
 c.ui.winbar = "#3D3F50"
 c.ui.tool = "#292D3E"
