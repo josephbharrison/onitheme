@@ -31,29 +31,28 @@ c.ui.purple = "#AE95B8"
 c.ui.cyan = "#95BDB7"
 c.ui.orange = "#D49668"
 
-c.ui.accent = "#9CBDC9"
+c.ui.accent = "#CDCDDE"
 
 c.ui.tabline = "#1D1F20"
 c.ui.winbar = "#3D3F50"
 c.ui.tool = "#1D1F20"
-c.ui.base = "#1D1F20"
-c.ui.inactive_base = "#1D1F20"
+c.ui.base = "#292D3E"
+c.ui.inactive_base = "#292D3E"
 c.ui.statusline = "#3D3F50"
-c.ui.split = "#1D1F20"
+c.ui.split = "#000000"
 c.ui.float = "#1D1F20"
 c.ui.title = c.ui.accent
 c.ui.border = "#3D3F50"
 c.ui.current_line = "#3D3F50"
 c.ui.scrollbar = c.ui.accent
 c.ui.selection = "#1D1F20"
--- TODO: combine menu_selection and selection
 c.ui.menu_selection = c.ui.selection
 c.ui.highlight = "#A5B2BC"
 c.ui.none_text = "#1D1F20"
-c.ui.text = "#D49668"
-c.ui.text_active = "#A5B2BC"
-c.ui.text_inactive = "#B47648"
-c.ui.text_match = "#ffeeee"
+c.ui.text = "#171922"
+c.ui.text_active = "#3C6789"
+c.ui.text_inactive = "#BCBDCE"
+c.ui.text_match = "#3C6789"
 
 c.ui.prompt = "#281E22"
 
