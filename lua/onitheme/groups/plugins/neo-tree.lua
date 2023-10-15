@@ -12,7 +12,6 @@ local function callback(opts)
       bold = true,
     },
     NeoTreeIndentMarker = { fg = C.ui.none_text },
-
     NeoTreeGitAdded = { fg = C.ui.green },
     NeoTreeGitConflict = { fg = C.ui.red },
     NeoTreeGitDeleted = { fg = C.ui.text_inactive },
