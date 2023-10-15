@@ -29,15 +29,15 @@ c.ui.green = "#B6BC72"
 c.ui.yellow = "#D49668"
 c.ui.purple = "#AE95B8"
 c.ui.cyan = "#95BDB7"
-c.ui.orange = "#D49668"
+c.ui.orange = "##ff0000"                                                              -- "#D49668"
 
 c.ui.accent = "#CDCDDE"
 
-c.ui.tabline = "#ff0000"
+c.ui.tabline = "#171922"        --rb: body bg,         -- neotree inactive tabs, main tab X bg
 c.ui.winbar = "#3D3F50"
 c.ui.tool = "#292D3E"
-c.ui.base = "#1D1F20"                  -- Editor background
-c.ui.inactive_base = "#2D2F30"         -- Editor background while not active
+c.ui.base = "#1D1F20"           --rb: code bg,         -- Editor background
+c.ui.inactive_base = "#2D2F30"  --rb: light code bg,   -- Editor background while not active
 c.ui.statusline = "#3D3F50"
 c.ui.split = "#000000"
 c.ui.float = "#1D1F20"
