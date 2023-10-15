@@ -33,10 +33,10 @@ c.ui.orange = "#D49668"                                -- neotree active folder
 
 c.ui.accent = "#CDCDDE"                                -- lazy bold text
 
-c.ui.menu_file_openen = "#3C6789"
+c.ui.menu_file_open = "#3C6789"
 c.ui.menu_directory = "#CDCDDE"
 c.ui.tabline = "#171922"        --rb: body bg,         -- neotree inactive tabs, main tab X bg
-c.ui.winbar = "#3D3F50"
+c.ui.winbar = "#ff0000"
 c.ui.tool = "#292D3E"
 c.ui.base = "#1D1F20"           --rb: code bg,         -- Editor background
 c.ui.inactive_base = "#2D2F30"  --rb: light code bg,   -- Editor background while not active
