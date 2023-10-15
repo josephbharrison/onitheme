@@ -24,7 +24,7 @@ c.syntax.mute = "#454845"
 --- UI
 --------------------------------
 c.ui.red = "#D49668"
-c.ui.blue = "#95BDB7"
+c.ui.blue = "#3C6789"
 c.ui.green = "#B6BC72"
 c.ui.yellow = "#D49668"
 c.ui.purple = "#AE95B8"
