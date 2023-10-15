@@ -8,32 +8,24 @@ local c = {
 --------------------------------
 --- Syntax
 --------------------------------
-c.syntax.red = "#DF8489"
-c.syntax.blue = "#4FA9C6"
+c.syntax.red = "#D49668"
+c.syntax.blue = "#95BDB7"
 c.syntax.green = "#84A860"
-c.syntax.yellow = "#C3963D"
-c.syntax.purple = "#CD87BA"
-c.syntax.cyan = "#4FAD97"
-c.syntax.orange = "#EF9474"
+c.syntax.yellow = "#C5C8C5"
+c.syntax.purple = "#AE95B8"
+c.syntax.cyan = "#95BDB7"
+c.syntax.orange = "#D49668"
 
-c.syntax.comment = "#63646A"
-c.syntax.text = "#A5B2BC"
-c.syntax.mute = "#444145"
+c.syntax.comment = "#656865"
+c.syntax.text = "#C5C8C5"
+c.syntax.mute = "#454845"
 
 --------------------------------
 --- UI
 --------------------------------
--- c.ui.red = "#E77777"
--- c.ui.blue = "#9CBDC9"
--- c.ui.green = "#9HCWAC374"
--- c.ui.yellow = "#FFA31A"
--- c.ui.purple = "#E8A1D7"
--- c.ui.cyan = "#88C3AB"
--- c.ui.orange = "#D49668"
-
 c.ui.red = "#D49668"
 c.ui.blue = "#95BDB7"
-c.ui.green = "#9AC374"
+c.ui.green = "#B6BC72"
 c.ui.yellow = "#D49668"
 c.ui.purple = "#AE95B8"
 c.ui.cyan = "#95BDB7"
@@ -41,7 +33,7 @@ c.ui.orange = "#D49668"
 
 c.ui.accent = "#9CBDC9"
 
-c.ui.tabline = "#281E22"
+c.ui.tabline = "#1D1F20"
 c.ui.winbar = "#8D8184"
 c.ui.tool = "#1D1F20"
 c.ui.base = "#1D1F20"
@@ -57,7 +49,7 @@ c.ui.selection = "#1D1F20"
 -- TODO: combine menu_selection and selection
 c.ui.menu_selection = c.ui.selection
 c.ui.highlight = "#"
-c.ui.none_text = "#393337"
+c.ui.none_text = "#1D1F20"
 c.ui.text = "#8B7079"
 c.ui.text_active = "#A5B2BC"
 c.ui.text_inactive = "#68545B"
