@@ -14,7 +14,7 @@ c.syntax.green = "#B6BC72"
 c.syntax.yellow = "#C5C8C5"
 c.syntax.purple = "#AE95B8"
 c.syntax.cyan = "#95BDB7"
-c.syntax.orange = "#D49668"
+c.syntax.orange = "#C5C8C5" --"#D49668"
 
 c.syntax.comment = "#656865"
 c.syntax.text = "#C5C8C5"
