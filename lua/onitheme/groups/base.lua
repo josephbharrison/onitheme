@@ -107,7 +107,7 @@ local function callback(opts)
     LineNr = { fg = C.ui.none_text, bg = C.none }, -- Line numbers
 
     WinSeparator = {
-      fg = C.ui.split,
+      fg = "#ff0000", -- C.ui.split,
       bg = opts.transparent and C.none or C.ui.base,
       bold = false,
     },
