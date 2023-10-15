@@ -42,7 +42,7 @@ c.ui.base = "#1D1F20"           --rs: code bg,         -- Editor background
 c.ui.inactive_base = "#2D2F30"  --rs: light code bg,   -- Editor background while not active
 c.ui.statusline = "#3D3F50"                            -- Active window status bar (bottom)
 c.ui.split = "#000000"                                 -- Thin vertical line between neotree and editor
-c.ui.float = "#0D0F10"                                 -- Floating window background
+c.ui.float = "#2D2F30"                                 -- Floating window background
 c.ui.title = c.ui.accent                               -- Floating docs body titles
 c.ui.border = "#3D3F50"                                -- Floating window border
 c.ui.current_line = "#3D3F50"                          -- Editor right column vertical boundary
@@ -52,9 +52,9 @@ c.ui.menu_selection = c.ui.selection                   -- SAME as ui.selection
 c.ui.highlight = "#A5B2BC"                             -- UNKNOWN??
 c.ui.none_text = "#454845"     --rs: body text         -- Relative line numbers
 c.ui.text = "#CDCDDE"          --rs: menu text         -- menu filenames
-c.ui.text_active = "#BDBDCE"                           -- root folder name
-c.ui.text_inactive = "#ff0000" --"#BCBDCE"
-c.ui.text_match = "#3C6789"
+c.ui.text_active = "#BDBDCE"                           -- menu root text, active tab text
+c.ui.text_inactive = "#8C8D9E"                         -- inactive tab text
+c.ui.text_match = "#8C8D9E"
 
 c.ui.prompt = "#281E22"
 
