@@ -29,7 +29,7 @@ c.ui.green = "#B6BC72"
 c.ui.yellow = "#D49668"
 c.ui.purple = "#AE95B8"
 c.ui.cyan = "#95BDB7"
-c.ui.orange = "##ff0000"                                                              -- "#D49668"
+c.ui.orange = "#D49668"
 
 c.ui.accent = "#CDCDDE"
 
