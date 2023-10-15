@@ -8,7 +8,7 @@ local c = {
 --------------------------------
 --- Syntax
 --------------------------------
-c.syntax.red = "#D98668"
+c.syntax.red = "#D49668"
 c.syntax.blue = "#95BDB7"
 c.syntax.green = "#B6BC72"
 c.syntax.yellow = "#C5C8C5"
