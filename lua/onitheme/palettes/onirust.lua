@@ -35,12 +35,12 @@ c.ui.accent = "#CDCDDE"                                -- lazy bold text
 
 c.ui.menu_file_open = "#3C6789"
 c.ui.menu_directory = "#CDCDDE"
-c.ui.tabline = "#171922"        --rb: body bg,         -- neotree inactive tabs, main tab X bg
+c.ui.tabline = "#171922"        --rs: body bg,         -- neotree inactive tabs, main tab X bg
 c.ui.winbar = "#3D3F50"                                -- UNKNOWN??
-c.ui.tool = "#ff0000"
-c.ui.base = "#1D1F20"           --rb: code bg,         -- Editor background
-c.ui.inactive_base = "#2D2F30"  --rb: light code bg,   -- Editor background while not active
-c.ui.statusline = "#3D3F50"
+c.ui.tool = "#292D3E"           --rs: menu bg          -- neotree background, and neotree active tab
+c.ui.base = "#1D1F20"           --rs: code bg,         -- Editor background
+c.ui.inactive_base = "#2D2F30"  --rs: light code bg,   -- Editor background while not active
+c.ui.statusline = "#ff0000"
 c.ui.split = "#000000"
 c.ui.float = "#1D1F20"
 c.ui.title = c.ui.accent
