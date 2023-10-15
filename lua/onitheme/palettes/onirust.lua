@@ -34,7 +34,7 @@ c.ui.orange = "#D49668"
 c.ui.accent = "#9CBDC9"
 
 c.ui.tabline = "#1D1F20"
-c.ui.winbar = "#8D8184"
+c.ui.winbar = "#3D3F50"
 c.ui.tool = "#1D1F20"
 c.ui.base = "#1D1F20"
 c.ui.inactive_base = "#1D1F20"
@@ -43,12 +43,12 @@ c.ui.split = "#1D1F20"
 c.ui.float = "#1D1F20"
 c.ui.title = c.ui.accent
 c.ui.border = "#1D1F20"
-c.ui.current_line = "#"
+c.ui.current_line = "#1D1F20"
 c.ui.scrollbar = c.ui.accent
 c.ui.selection = "#1D1F20"
 -- TODO: combine menu_selection and selection
 c.ui.menu_selection = c.ui.selection
-c.ui.highlight = "#"
+c.ui.highlight = "#A5B2BC"
 c.ui.none_text = "#1D1F20"
 c.ui.text = "#8B7079"
 c.ui.text_active = "#A5B2BC"
