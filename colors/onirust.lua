@@ -1,1 +1,1 @@
-require("astrotheme").load "astromars"
+require("onitheme").load "onirust"
