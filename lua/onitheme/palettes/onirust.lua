@@ -52,8 +52,8 @@ c.ui.menu_selection = c.ui.selection                   -- SAME as ui.selection
 c.ui.highlight = "#A5B2BC"                             -- UNKNOWN??
 c.ui.none_text = "#454845"     --rs: body text         -- Relative line numbers
 c.ui.text = "#CDCDDE"          --rs: menu text         -- menu filenames
-c.ui.text_active = "#ff0000" --"#3C6789"
-c.ui.text_inactive = "#BCBDCE"
+c.ui.text_active = "#BDBDCE"                           -- root folder name
+c.ui.text_inactive = "#ff0000" --"#BCBDCE"
 c.ui.text_match = "#3C6789"
 
 c.ui.prompt = "#281E22"
