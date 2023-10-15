@@ -1,0 +1,1 @@
+require("onitheme").load "onilight"
