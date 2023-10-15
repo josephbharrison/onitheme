@@ -29,10 +29,12 @@ c.ui.green = "#B6BC72"
 c.ui.yellow = "#D49668"
 c.ui.purple = "#AE95B8"
 c.ui.cyan = "#95BDB7"
-c.ui.orange = "#ff0000"
+c.ui.orange = "#D49668"                                -- neotree active folder
 
 c.ui.accent = "#CDCDDE"                                -- lazy bold text
 
+c.ui.menu_file_openen = "#3C6789"
+c.ui.menu_directory = "#CDCDDE"
 c.ui.tabline = "#171922"        --rb: body bg,         -- neotree inactive tabs, main tab X bg
 c.ui.winbar = "#3D3F50"
 c.ui.tool = "#292D3E"

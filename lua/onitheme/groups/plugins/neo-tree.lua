@@ -1,10 +1,10 @@
 local function callback(opts)
   return {
-    NeoTreeDirectoryIcon = { fg = C.ui.blue },
+    NeoTreeDirectoryIcon = { fg = C.ui.menu_directory },
     NeoTreeRootName = { fg = C.ui.text_active, bold = true },
     NeoTreeFileName = { fg = C.ui.text },
     NeoTreeFileIcon = { fg = C.ui.text },
-    NeoTreeFileNameOpened = { fg = C.ui.green },
+    NeoTreeFileNameOpened = { fg = C.ui.menu_file_opened },
     NeoTreeFloatBorder = { fg = C.ui.float },
     NeoTreeFloatTitle = {
       fg = opts.title_invert and C.ui.tool or C.ui.title,
