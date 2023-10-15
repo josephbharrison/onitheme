@@ -35,8 +35,8 @@ c.ui.accent = "#CDCDDE"
 
 c.ui.tabline = "#1D1F20"
 c.ui.winbar = "#3D3F50"
-c.ui.tool = "#1D1F20"
-c.ui.base = "#1D1F20"
+c.ui.tool = "#292D3E"
+c.ui.base = "#1D1F20"                  -- Editor background
 c.ui.inactive_base = "#292D3E"
 c.ui.statusline = "#3D3F50"
 c.ui.split = "#000000"
