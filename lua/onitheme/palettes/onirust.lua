@@ -29,9 +29,9 @@ c.ui.green = "#B6BC72"
 c.ui.yellow = "#D49668"
 c.ui.purple = "#AE95B8"
 c.ui.cyan = "#95BDB7"
-c.ui.orange = "#D49668"
+c.ui.orange = "#ff0000"
 
-c.ui.accent = "#FF0000"
+c.ui.accent = "#CDCDDE"                                -- lazy bold text
 
 c.ui.tabline = "#171922"        --rb: body bg,         -- neotree inactive tabs, main tab X bg
 c.ui.winbar = "#3D3F50"
