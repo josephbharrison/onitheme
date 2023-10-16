@@ -22,6 +22,7 @@ local function callback(opts)
     -- Identifier
     Identifier = { fg = C.syntax.text, bg = C.none }, -- any variable name
     Function = { fg = C.syntax.blue, bg = C.none }, -- function name (also: methods for classes)
+    rustFuncName = { fg = C.syntax.blue, bg = C.none }, -- function name (also: methods for classes)
     -- Statement
     Statement = { fg = C.syntax.purple, bg = C.none }, -- any statement
     Conditional = { fg = C.syntax.purple, bg = C.none }, -- if, then, else, endif, switch, etc.
