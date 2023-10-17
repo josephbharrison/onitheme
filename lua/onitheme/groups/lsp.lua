@@ -59,7 +59,7 @@ local function callback(opts)
     ["@lsp.type.function.rust"] = { fg = C.syntax.blue, bg = C.none },
     ["@lsp.type.method.rust"] = { fg = C.syntax.text, bg = C.none },
     ["@lsp.type.namespace.rust"] = { fg = C.syntax.text, bg = C.none, link = "@namespace.rust" },
-    ["@lsp.type.struct.rust"] = { fg = C.syntax.cyan, bg = C.none },
+    ["@lsp.type.struct.rust"] = { fg = C.syntax.orange, bg = C.none },
     ["@lsp.type.builtinType.rust"] = { fg = C.syntax.orange, bg = C.none },
     ["@lsp.type.parameter.rust"] = { fg = C.syntax.text, bg = C.none },
   }
