@@ -59,7 +59,7 @@ local function callback(opts)
     Todo = { fg = C.ui.yellow, bg = C.none }, -- anything that needs extra attention; mostly the keywords TODO FIXME and XXX
 
     -- Rust Syntax
-    rustFoldBraces = { fg = C.syntax.text, bg = C.none },
+    rustFoldBraces = { fg = C.syntax.orange, bg = C.none },
     rustSigil = { fg = C.syntax.text, bg = C.none }, -- &, ...
     rustArrowCharacter = { fg = C.syntax.text, bg = C.none }, -- ->
     rustModPath = { fg = C.syntax.text, bg = C.none }, -- e.g. std
