@@ -51,7 +51,7 @@ local function callback(opts)
     ["@lsp.typemod.variable.readonly"] = { link = "Constant" },
 
     -- rust LSP semantic tokens
-    ["@lsp.typemod.enumMember.defaultLibrary.rust"] = { fg = C.syntax.orange, bg = C.none },
+    ["@lsp.typemod.enumMember.defaultLibrary.rust"] = { fg = C.syntax.text, bg = C.none },
     ["@lsp.typemod.function.defaultLibrary.rust"] = { fg = C.syntax.text, bg = C.none },
     ["@lsp.typemod.function.library.rust"] = { fg = C.syntax.text, bg = C.none },
     ["@lsp.typemod.function.global.rust"] = { fg = C.syntax.blue, bg = C.none },
