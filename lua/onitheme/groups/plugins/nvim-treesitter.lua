@@ -181,8 +181,8 @@ local function callback(opts)
 
     -- rust
     ["@constant.rust"] = { fg = C.syntax.cyan },
-    ["@function.macro.rust"] = { fg = C.syntax.red },
-    ["@namespace.rust"] = { fg = C.syntax.purple },
+    ["@function.macro.rust"] = { fg = C.syntax.orange },
+    ["@namespace.rust"] = { fg = C.syntax.text },
     ["@punctuation.special.rust"] = { fg = C.syntax.purple },
     ["@type.rust"] = { fg = C.syntax.cyan },
 
