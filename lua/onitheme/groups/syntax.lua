@@ -61,7 +61,8 @@ local function callback(opts)
     -- Rust Syntax
     rustSigil = { fg = C.syntax.text, bg = C.none }, -- &, ...
     rustArrowCharacter = { fg = C.syntax.text, bg = C.none }, -- ->
-    rustModPath = { fg = C.syntax.text, bg = C.none }, -- e.g. std::cmp
+    rustModPath = { fg = C.syntax.text, bg = C.none }, -- e.g. std
+    rustModPathSep = { fg = C.syntax.text, bg = C.none }, -- e.g. ::
 
 
   }
