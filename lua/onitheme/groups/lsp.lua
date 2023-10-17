@@ -50,7 +50,8 @@ local function callback(opts)
     },
     ["@lsp.typemod.variable.readonly"] = { link = "Constant" },
 
-    -- rust
+    -- rust LSP semantic tokens
+    --
     ["@lsp.typemod.enumMember.defaultLibrary.rust"] = { fg = C.syntax.blue, bg = C.none },
     ["@lsp.typemod.function.defaultLibrary.rust"] = { fg = C.syntax.text, bg = C.none },
     ["@lsp.typemod.method.defaultLibrary.rust"] = { fg = C.syntax.blue, bg = C.none },
@@ -60,6 +61,12 @@ local function callback(opts)
     ["@lsp.type.namespace.rust"] = { link = "@namespace.rust" },
     ["@lsp.type.struct.rust"] = { fg = C.syntax.cyan, bg = C.none },
     ["@lsp.type.builtinType.rust"] = { fg = C.syntax.cyan, bg = C.none },
+    -- rustBoxPlacementBalance
+    ["@lsp.type.parameter.rust"] = { fg = C.syntax.orange, bg = C.none },
+    ["@lsp.mod.declaration.rust"] = { fg = C.syntax.orange, bg = C.none },
+    ["@lsp.mod.reference.rust"] = { fg = C.syntax.orange, bg = C.none },
+    ["@lsp.typemod.parameter.declaration.rust"] = { fg = C.syntax.orange, bg = C.none },
+    ["@lsp.typemod.parameter.reference.rust"] = { fg = C.syntax.orange, bg = C.none },
   }
 end
 
