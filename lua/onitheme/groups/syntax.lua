@@ -59,6 +59,7 @@ local function callback(opts)
     Todo = { fg = C.ui.yellow, bg = C.none }, -- anything that needs extra attention; mostly the keywords TODO FIXME and XXX
 
     -- Rust Syntax
+    rustFoldBraces = { fg = C.syntax.text, bg = C.none },
     rustSigil = { fg = C.syntax.text, bg = C.none }, -- &, ...
     rustArrowCharacter = { fg = C.syntax.text, bg = C.none }, -- ->
     rustModPath = { fg = C.syntax.text, bg = C.none }, -- e.g. std
@@ -66,7 +67,7 @@ local function callback(opts)
     rustOperator = { fg = C.syntax.text, bg = C.none }, -- e.g. =
     rustFuncCall = { fg = C.syntax.text, bg = C.none }, -- e.g. =
     rustEnumVariant = { fg = C.syntax.orange, bg = C.none }, -- e.g. =
-    rustStorage = { fg = C.syntax.purple, bg = C.none }, -- e.g. =
+    rustStorage = { fg = C.syntax.purple, bg = C.none }, -- e.g. mut
 
 
   }
