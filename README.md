@@ -17,9 +17,9 @@
 
 ## 🎨 Palettes
 
-<p align="center">
-<img src="https://github.com/josephbharrison/onitheme/images/overview.png"/>
-</p>
+<!-- <p align="center"> -->
+<!-- <img src="https://github.com/josephbharrison/onitheme/images/overview.png"/> -->
+<!-- </p> -->
 
 <details>
 <summary>Oni Rust</summary>
@@ -28,9 +28,9 @@
 colorscheme Oni " The Rust Book inspried theme
 ```
 
-<p align="center">
-<img src="https://github.com/josephbharrison/onitheme/images/onirust.png"/>
-</p>
+<!-- <p align="center"> -->
+<!-- <img src="https://github.com/josephbharrison/onitheme/images/onirust.png"/> -->
+<!-- </p> -->
 
 </details>
 
@@ -41,9 +41,9 @@ colorscheme Oni " The Rust Book inspried theme
 colorscheme Oni " Light theme
 ```
 
-<p align="center">
-<img src="https://github.com/josephbharrison/onitheme/images/onilight.png"/>
-</p>
+<!-- <p align="center"> -->
+<!-- <img src="https://github.com/josephbharrison/onitheme/images/onilight.png"/> -->
+<!-- </p> -->
 
 </details>
 
@@ -54,9 +54,9 @@ colorscheme Oni " Light theme
 colorscheme Oni " Dark theme
 ```
 
-<p align="center">
-<img src="https://github.com/josephbharrison/onitheme/images/onidark.png"/>
-</p>
+<!-- <p align="center"> -->
+<!-- <img src="https://github.com/josephbharrison/onitheme/images/onidark.png"/> -->
+<!-- </p> -->
 
 </details>
 
