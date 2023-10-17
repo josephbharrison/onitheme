@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/josephbharrison/onitheme/main/images/logo.png" width=100/>
+<img src="https://raw.githubusercontent.com/josephbharrison/onitheme/main/images/logo.png" width=200/>
 </p>
 
 <h1 align="center"> OniTheme </h1>
