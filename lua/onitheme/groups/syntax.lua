@@ -39,7 +39,7 @@ local function callback(opts)
     PreCondit = { fg = C.syntax.blue, bg = C.none }, -- preprocessor #if, #else, #endif, etc.
     -- Type
     Type = { fg = C.syntax.orange, bg = C.none }, -- int, long, char, etc.
-    StorageClass = { fg = C.syntax.blue, bg = C.none }, -- static, register, volatile, etc.
+    StorageClass = { fg = C.syntax.purple, bg = C.none }, -- static, register, volatile, etc.
     Structure = { fg = C.syntax.yellow, bg = C.none }, -- struct, union, enum, etc.
     Typedef = { fg = C.syntax.yellow, bg = C.none }, -- A typedef
     -- Special
@@ -65,6 +65,7 @@ local function callback(opts)
     rustModPathSep = { fg = C.syntax.text, bg = C.none }, -- e.g. ::
     rustOperator = { fg = C.syntax.text, bg = C.none }, -- e.g. =
     rustFuncCall = { fg = C.syntax.text, bg = C.none }, -- e.g. =
+    rustStorage = { fg = C.syntax.purple, bg = C.none }, -- e.g. =
 
 
   }
