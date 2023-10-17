@@ -53,9 +53,9 @@ local function callback(opts)
     -- rust LSP semantic tokens
     ["@lsp.typemod.enumMember.defaultLibrary.rust"] = { fg = C.syntax.blue, bg = C.none },
     ["@lsp.typemod.function.defaultLibrary.rust"] = { fg = C.syntax.text, bg = C.none },
-    ["@lsp.typemod.method.defaultLibrary.rust"] = { fg = C.syntax.blue, bg = C.none },
+    ["@lsp.typemod.method.defaultLibrary.rust"] = { fg = C.syntax.text, bg = C.none },
     ["@lsp.typemod.function.global.rust"] = { fg = C.syntax.blue, bg = C.none },
-    ["@lsp.type.macro.rust"] = { fg = C.syntax.red, bg = C.none },
+    ["@lsp.type.macro.rust"] = { fg = C.syntax.orange, bg = C.none },
     ["@lsp.type.function.rust"] = { fg = C.syntax.blue, bg = C.none },
     ["@lsp.type.method.rust"] = { fg = C.syntax.text, bg = C.none },
     ["@lsp.type.namespace.rust"] = { fg = C.syntax.text, bg = C.none, link = "@namespace.rust" },
