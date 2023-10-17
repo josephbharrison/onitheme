@@ -1,10 +1,10 @@
 <p align="center">
-<img src="https://github.com/josepbharrison/onitheme/logo.png" width=100/>
+<img src="https://github.com/josepbharrison/onitheme/images/logo.png" width=100/>
 </p>
 
 <h1 align="center"> OniTheme </h1>
 
-<p align="center">The default colorscheme used by Oni <a href="https://github.com/josephbharrison/oni">Oni</a> a feature-rich neovim config with a ronin aesthetic</p>
+<p align="center">The default colorscheme used by <a href="https://github.com/josephbharrison/oni">Oni</a> a feature-rich neovim config with a ronin inspired aesthetic</p>
 
 ## ✨ Features
 
