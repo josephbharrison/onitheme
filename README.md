@@ -4,7 +4,7 @@
 
 <h1 align="center"> OniTheme </h1>
 
-<p align="center">The default colorscheme used by <a href="https://github.com/josephbharrison/oni">Oni</a> a feature-rich neovim config with a ronin inspired aesthetic</p>
+<p align="center">The default colorscheme used by <a href="https://github.com/josephbharrison/oni">Oni</a> -- a feature-rich neovim config with a ronin inspired aesthetic</p>
 
 ## ✨ Features
 
