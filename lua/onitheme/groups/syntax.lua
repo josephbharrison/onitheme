@@ -66,7 +66,7 @@ local function callback(opts)
     rustModPathSep = { fg = C.syntax.text, bg = C.none }, -- e.g. ::
     rustOperator = { fg = C.syntax.text, bg = C.none }, -- e.g. =
     rustFuncCall = { fg = C.syntax.text, bg = C.none }, -- e.g. =
-    rustEnumVariant = { fg = C.syntax.orange, bg = C.none }, -- e.g. =
+    rustEnumVariant = { fg = C.syntax.orange, bg = C.none }, -- e.g. Ok
     rustStorage = { fg = C.syntax.purple, bg = C.none }, -- e.g. mut
 
 
