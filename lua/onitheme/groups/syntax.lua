@@ -64,6 +64,7 @@ local function callback(opts)
     rustModPath = { fg = C.syntax.text, bg = C.none }, -- e.g. std
     rustModPathSep = { fg = C.syntax.text, bg = C.none }, -- e.g. ::
     rustOperator = { fg = C.syntax.text, bg = C.none }, -- e.g. =
+    rustFuncCall = { fg = C.syntax.text, bg = C.none }, -- e.g. =
 
 
   }
