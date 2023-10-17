@@ -60,6 +60,7 @@ local function callback(opts)
 
     -- Rust Syntax
     rustSigil = { fg = C.syntax.text, bg = C.none }, -- &, ...
+    rustArrowCharacter = { fg = C.syntax.text, bg = C.none }, -- ->
 
 
   }
