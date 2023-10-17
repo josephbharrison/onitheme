@@ -57,6 +57,10 @@ local function callback(opts)
     Error = { fg = C.ui.red, bg = C.none }, -- any erroneous construct
     -- Todo
     Todo = { fg = C.ui.yellow, bg = C.none }, -- anything that needs extra attention; mostly the keywords TODO FIXME and XXX
+    -- Rust Analyzer Semantic tokens
+    ["lsp.type.function.rust"] = { fg = C.syntax.blue, bg = C.none },
+    ["lsp.mod.declaration.rust"] = { fg = C.syntax.blue, bg = C.none },
+    ["lsp.typemod.function.declaration.rust"] = { fg = C.syntax.blue, bg = C.none },
   }
 end
 return callback
