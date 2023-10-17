@@ -63,6 +63,7 @@ local function callback(opts)
     rustArrowCharacter = { fg = C.syntax.text, bg = C.none }, -- ->
     rustModPath = { fg = C.syntax.text, bg = C.none }, -- e.g. std
     rustModPathSep = { fg = C.syntax.text, bg = C.none }, -- e.g. ::
+    rustOperator = { fg = C.syntax.text, bg = C.none }, -- e.g. =
 
 
   }
