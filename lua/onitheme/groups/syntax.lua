@@ -57,6 +57,11 @@ local function callback(opts)
     Error = { fg = C.ui.red, bg = C.none }, -- any erroneous construct
     -- Todo
     Todo = { fg = C.ui.yellow, bg = C.none }, -- anything that needs extra attention; mostly the keywords TODO FIXME and XXX
+
+    -- Rust Syntax
+    rustSigil = { fg = C.syntax.text, bg = C.none }, -- &, ...
+
+
   }
 end
 return callback
