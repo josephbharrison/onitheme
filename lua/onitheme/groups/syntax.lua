@@ -38,7 +38,7 @@ local function callback(opts)
     Macro = { fg = C.syntax.orange, bg = C.none }, -- same as Define
     PreCondit = { fg = C.syntax.blue, bg = C.none }, -- preprocessor #if, #else, #endif, etc.
     -- Type
-    Type = { fg = C.syntax.blue, bg = C.none }, -- int, long, char, etc.
+    Type = { fg = C.syntax.orange, bg = C.none }, -- int, long, char, etc.
     StorageClass = { fg = C.syntax.blue, bg = C.none }, -- static, register, volatile, etc.
     Structure = { fg = C.syntax.yellow, bg = C.none }, -- struct, union, enum, etc.
     Typedef = { fg = C.syntax.yellow, bg = C.none }, -- A typedef
@@ -57,10 +57,6 @@ local function callback(opts)
     Error = { fg = C.ui.red, bg = C.none }, -- any erroneous construct
     -- Todo
     Todo = { fg = C.ui.yellow, bg = C.none }, -- anything that needs extra attention; mostly the keywords TODO FIXME and XXX
-    -- Rust Analyzer Semantic tokens
-    ["lsp.type.function.rust"] = { fg = C.syntax.blue, bg = C.none },
-    ["lsp.mod.declaration.rust"] = { fg = C.syntax.blue, bg = C.none },
-    ["lsp.typemod.function.declaration.rust"] = { fg = C.syntax.blue, bg = C.none },
   }
 end
 return callback
