@@ -26,7 +26,7 @@ local function callback(opts)
     ["@lsp.type.property"] = { link = "@property" },
     ["@lsp.type.variable"] = { link = "@lsp.type.variable" },
     ["@lsp.typemod.enumMember.defaultLibrary"] = {
-      fg = opts.simple_syntax_colors and C.syntax.blue or C.syntax.cyan,
+      fg = opts.simple_syntax_colors and C.syntax.orange or C.syntax.cyan,
       bg = C.none,
     },
     ["@lsp.typemod.function.defaultLibrary"] = {
