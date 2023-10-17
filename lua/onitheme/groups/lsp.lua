@@ -57,6 +57,7 @@ local function callback(opts)
     ["@lsp.typemod.method.reference.rust"] = { fg = C.syntax.text, bg = C.none },
     ["@lsp.typemod.method.trait.rust"] = { fg = C.syntax.text, bg = C.none },
     ["@lsp.typemod.function.global.rust"] = { fg = C.syntax.blue, bg = C.none },
+    ["@lsp.type.enumMember.rust"] = { fg = C.syntax.orange, bg = C.none },
     ["@lsp.type.macro.rust"] = { fg = C.syntax.orange, bg = C.none },
     ["@lsp.type.function.rust"] = { fg = C.syntax.blue, bg = C.none },
     ["@lsp.type.method.rust"] = { fg = C.syntax.text, bg = C.none },
